@@ -1,2 +1,2 @@
-# Product-Landing-Page
-Product Landing Page
+# building-a-magazine
+buildin a magazine with grid
