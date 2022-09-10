@@ -1,2 +1,2 @@
-# Product-Landing-Page
-Product Landing Page
+# building-a-magazine
+building a magazine
